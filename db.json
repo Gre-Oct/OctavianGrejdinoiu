@@ -3,7 +3,7 @@
     {
       "id": 1,
       "make": "Volvo",
-      "model": "XC40"
+      "model": "XC40",
       "price": 20000,
       "fuelType" : "Diesel",
       "colour" : "Grey",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "make": "BMW",
-      "model": "Series 1"
+      "model": "Series 1",
       "price": 15000,
       "fuelType" : "Petrol",
       "colour" : "White",
